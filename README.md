@@ -1,2 +1,2 @@
-# web-essay
-Year 1 IXD102 Web Essay 
+# Website
+(https://cormacixd.github.io/Website/JMB.html) 
